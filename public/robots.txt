@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/visits
+
+Sitemap: https://monadefi.com/sitemap.xml
